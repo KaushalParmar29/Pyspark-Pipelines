@@ -1,0 +1,6 @@
+review_id,product_id,user_id,review_text,rating,review_date
+1,P001,U001,"Great product! Highly recommend.",5,2023-06-01
+2,P001,U002,"Decent quality, but packaging was bad.",3,2023-06-02
+3,P002,U001,"Did not like it. Very flimsy.",2,2023-06-03
+4,P003,U003,"Best chair I've ever used.",5,2023-06-04
+5,P002,U004,"Okay product, value for money.",4,2023-06-05
