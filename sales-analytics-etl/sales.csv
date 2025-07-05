@@ -1,0 +1,7 @@
+order_id,customer_id,product_id,quantity,price,order_date,region
+1,101,P001,2,250,2023-06-01,North
+2,102,P002,1,300,2023-06-02,South
+3,101,P001,1,250,2023-06-02,North
+4,103,P003,4,150,2023-06-03,West
+5,104,P004,2,500,2023-06-04,East
+6,105,P001,3,250,2023-06-05,North
